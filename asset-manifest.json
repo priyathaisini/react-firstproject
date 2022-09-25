@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.ad5593af.css",
-    "main.js": "/static/js/main.5debc0ec.js",
-    "static/js/787.314808bc.chunk.js": "/static/js/787.314808bc.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.ad5593af.css.map": "/static/css/main.ad5593af.css.map",
-    "main.5debc0ec.js.map": "/static/js/main.5debc0ec.js.map",
-    "787.314808bc.chunk.js.map": "/static/js/787.314808bc.chunk.js.map"
+    "main.css": "https://priyathaisini.github.io/react-firstproject/static/css/main.ad5593af.css",
+    "main.js": "https://priyathaisini.github.io/react-firstproject/static/js/main.ca2668cb.js",
+    "static/js/787.314808bc.chunk.js": "https://priyathaisini.github.io/react-firstproject/static/js/787.314808bc.chunk.js",
+    "static/media/logo.svg": "https://priyathaisini.github.io/react-firstproject/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "https://priyathaisini.github.io/react-firstproject/index.html",
+    "main.ad5593af.css.map": "https://priyathaisini.github.io/react-firstproject/static/css/main.ad5593af.css.map",
+    "main.ca2668cb.js.map": "https://priyathaisini.github.io/react-firstproject/static/js/main.ca2668cb.js.map",
+    "787.314808bc.chunk.js.map": "https://priyathaisini.github.io/react-firstproject/static/js/787.314808bc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ad5593af.css",
-    "static/js/main.5debc0ec.js"
+    "static/js/main.ca2668cb.js"
   ]
 }
